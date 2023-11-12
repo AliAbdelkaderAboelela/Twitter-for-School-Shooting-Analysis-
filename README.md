@@ -3,10 +3,6 @@ This project revolves around a comprehensive analysis of dark data extracted fro
 
 ## Key Highlights:
 
-- **Data Source:** Archived Twitter data from May 2019, comprising over 15 million tweets.
-- **Data Preprocessing:** Rigorous cleaning, stop word removal, and feature selection to refine the dataset to 5,000 tweets.
-- ### Natural Language Processing (NLP) Models
-
 1. **Named Entity Recognition (NER):**
    - Used SpaCy's pre-trained model to identify and classify entities within the Twitter text, including persons, organizations, locations, events, and more.
    - Customized the model to recognize specific entity types relevant to the analysis.
