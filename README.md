@@ -5,7 +5,6 @@ This project revolves around a comprehensive analysis of dark data extracted fro
 
 - **Data Source:** Archived Twitter data from May 2019, comprising over 15 million tweets.
 - **Data Preprocessing:** Rigorous cleaning, stop word removal, and feature selection to refine the dataset to 5,000 tweets.
-- 
 - ### Natural Language Processing (NLP) Models
 
 1. **Named Entity Recognition (NER):**
@@ -23,11 +22,6 @@ This project revolves around a comprehensive analysis of dark data extracted fro
 4. **Text Summarization:**
    - Applied advanced language model (WizardLM) for text summarization.
    - Generated concise summaries of tweets to provide a clear overview of the conversations surrounding the tragic incidents.
-
-
-This repository documents the journey through dark data analysis, providing a glimpse into the multifaceted aspects of public discourse surrounding tragic events.
-## Models and Tasks
-
 
 
 ### Insights and Analysis
